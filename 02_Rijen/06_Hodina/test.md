@@ -10,12 +10,12 @@
 
 Napište metodu, která akceptuje strany trojúhelníku a **vrátí** výsledek pomocí vzorce:
 
-$$
-s=\frac{a+b+c}{2}
-$$
-$$
-S=\sqrt{s(s-a)(s-b)(s-c)}
-$$
+
+$$s=\frac{a+b+c}{2}$$
+
+
+$$S=\sqrt{s(s-a)(s-b)(s-c)}$$
+
 ---
 
 ## 2. Splácení dluhu
