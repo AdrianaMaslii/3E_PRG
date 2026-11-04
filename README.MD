@@ -8,3 +8,40 @@
 ### .md soubory
 - slouží jako poznámky z teoretických hodin
 - syntaxe jednotlivých konstrukcí + příklady
+
+# Práce v hodině
+
+| Pořadí | Příjmení    | Plus | Mínus |
+| ------ | ----------- | ---- | ----- |
+| 1.     | Bednář      |      |       |
+| 2.     | Beran       | 4    |       |
+| 3.     | Bočan       | 1    |       |
+| 4.     | Böhm        |      | 1     |
+| 5.     | Breu        | 1    |       |
+| 6.     | Černý       |      |       |
+| 7.     | Friedrich   | 1    |       |
+| 8.     | Grecman     | 1    |       |
+| 9.     | Hick        | 1    |       |
+| 10.    | Hošek       | 1    |       |
+| 11.    | Hyťha       | 1    |       |
+| 12.    | Jonáš       | 2    |       |
+| 13.    | Kaňok       | 1    |       |
+| 14.    | Kico        |      |       |
+| 15.    | Kodýdek     | 2    |       |
+| 16.    | Komárek     | 9    |       |
+| 17.    | Kouřil      | 1    |       |
+| 18.    | Krátký      | 1    |       |
+| 19.    | Mádr        | 4    | 1.25  |
+| 20.    | Maršálek    | 5    |       |
+| 21.    | Maslii      | 1    |       |
+| 22.    | Motlík      | 2    | 2     |
+| 23.    | Polanský    | 1    |       |
+| 24.    | Potůček     | 2    |       |
+| 25.    | Serednyy    | 1    |       |
+| 26.    | Shapovalova | 4    |       |
+| 27.    | Schmid      | 3    | 0.25  |
+| 28.    | Svoboda     | 2    |       |
+| 29.    | Tran        | 2    |       |
+| 30.    | Vít         | 4    | 2.25  |
+| 31.    | Wislocki    | 4    |       |
+| 32.    | Zábojníkova | 2    |       |
