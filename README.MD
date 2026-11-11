@@ -32,14 +32,14 @@
 | 17.    | Kouřil      | 1    |       |
 | 18.    | Krátký      | 1    |       |
 | 19.    | Mádr        | 4    | 1.25  |
-| 20.    | Maršálek    | 5    |       |
+| 20.    | Maršálek    | 6    |       |
 | 21.    | Maslii      | 1    |       |
 | 22.    | Motlík      | 2    | 2     |
 | 23.    | Polanský    | 1    |       |
 | 24.    | Potůček     | 2    |       |
 | 25.    | Serednyy    | 1    |       |
 | 26.    | Shapovalova | 4    |       |
-| 27.    | Schmid      | 3    | 0.25  |
+| 27.    | Schmid      | 4    | 0.25  |
 | 28.    | Svoboda     | 2    |       |
 | 29.    | Tran        | 2    |       |
 | 30.    | Vít         | 4    | 2.25  |
